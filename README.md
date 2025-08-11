@@ -78,7 +78,9 @@ Three bots for greetings, document storage, and reminders.
 
 - 10/10 CGPA in 10th Standard  
 - 96.7% in Intermediate (12th Grade)  
-- TS EAMCET Rank: 8187  
+- TS EAMCET Rank: 8187
+- Secured 9.42 CGPA and Stood at 4th Place in College in First Semester.
+- Got 100/100 Narks in Mathematics - 1 in First Semester of B. Tech
 
 ---
 
