@@ -117,7 +117,7 @@ Three bots for greetings, document storage, and reminders.
 
 ## 📫 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-👩🏻‍💻)](https://deekshitha-k.github.io/New-Portfolio/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-👩🏻‍💻-pink)](https://deekshitha-k.github.io/New-Portfolio/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/DEEKSHITHA-K)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deekshithakashetty/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:deekshithakashetty@gmail.com)
