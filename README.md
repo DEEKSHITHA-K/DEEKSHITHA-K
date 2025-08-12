@@ -89,10 +89,9 @@ Three bots for greetings, document storage, and reminders.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DEEKSHITHA-K&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEKSHITHA-K&theme=radical" alt="GitHub Streak" height="160" />
 </p>
-  ![GitHub Streak](https://streak-stats.demolab.com?user=DEEKSHITHA-K&theme=radical&hide_border=false)
-
-
+  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEKSHITHA-K&layout=compact&theme=radical" alt="Top Languages" />
 </p>
