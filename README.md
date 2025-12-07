@@ -2,13 +2,13 @@
 
 ### 🎓 **B.Tech in Computer Science and Engineering** | 💻 **Full Stack Developer** | 🧠 **Problem Solving Enthusiast**
 
-I’m a passionate technologist focused on building robust and impactful applications, solving challenging problems, and continuously upskilling. I have transitioned from a Graduate Trainee to a **Junior Software Engineer (FTE)** at **Lloyds Technology Centre**.
+I’m a passionate technologist focused on building robust and impactful applications, solving challenging problems, and continuously upskilling. I have transitioned from a Graduate Trainee to a **Junior Software Engineer** at **Lloyds Technology Centre**.
 
 ---
 
 ## 💼 Professional Experience
 
-### Junior Software Engineer (FTE) – Lloyds Technology Centre
+### Junior Software Engineer – Lloyds Technology Centre
 *September 2025 – Present | Hyderabad*
 
 * Developed **JUnit** test cases for the decoupling of View Cards functionality, achieving **94% code coverage**.
