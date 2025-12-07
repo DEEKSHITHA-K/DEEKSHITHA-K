@@ -1,128 +1,96 @@
-# 👋 Hi, I'm Kashetty Deekshitha
-
-🎓 **B.Tech in Computer Science and Engineering** | 💻 **Full Stack Developer** | 🧠 **Problem Solving Enthusiast**
-
-I’m a recent CS graduate passionate about building impactful applications, solving challenging problems, and constantly exploring new technologies. Currently working as a **Graduate Technology Trainee** at **Lloyds Technology Centre**.
-
----
-
-## 🚀 Technical Skills
-
-**Languages:** Python | C | C++ | Java  
-**Frontend:** HTML | CSS | JavaScript | ReactJS | Bootstrap | TailwindCSS  
-**Backend:** NodeJS | ExpressJS | Java Spring Boot  
-**Architecture:** Microservices  
-**Databases:** MySQL | PostgreSQL | CassandraDB | Cloud SQL  
-**Testing:** JUnit | Playwright  
-**Data Tools:** Numpy | Pandas | Tableau | Excel | R | Jupyter Notebook  
-**Other Tools:** Git | Jira | Splunk | Docker | LaTeX
-
----
-
-## 🏆 Experience
-
-**Graduate Technology Trainee** – Lloyds Technology Centre *(Nov 2024 – Present)*  
-- Developed Playwright test scripts for Lloyds Banking Group Business Users’ website.  
-- 8-week intensive training in **Java, SQL, JavaScript, ReactJS, Spring Boot, JDBC, JPA, Hibernate, Microservices, CassandraDB, JUnit**.  
-
----
-
-## 📌 Featured Projects
-
-### 🛒 [E-Shop - E-Commerce Website](https://youtu.be/VIuN8zbWM-U) *(Apr 2025 – Jun 2025)*  
-Full-stack e-commerce platform with login, register, product listing, cart, and checkout.  
-**Tech:** Java Spring Boot, PostgreSQL, Cloud Run, ReactJS, NodeJS, TailwindCSS, Cloud SQL.
-
-### 🌱 Paddy Leaf Disease Detection *(Aug 2023 – May 2024)*  
-ML-based prediction of paddy leaf diseases with intensity calculation and remedies.  
-**Tech:** Python, Scikit-learn, TensorFlow, Matplotlib.  
-**Accuracy:** 87.5% (SVM).
-
-### 💳 Credit Risk Modelling *(Aug 2023 – Dec 2023)*  
-Loan default prediction and credit score calculation.  
-**Tech:** Python, Scikit-learn, Pandas, Numpy, Tkinter.  
-**Accuracy:** 93% (Logistic Regression & KNN).
-
-### 📊 Dashboards for Data Analysis *(Aug 2023 – Feb 2024)*  
-Interactive dashboards using Excel & Tableau, integrated with HeidiSQL for DB handling.  
-**Tech:** Excel, Tableau, Python.
-
-### 📇 [Contact Web Application](https://contactswebapplication.netlify.app/) *(Nov 2022 – Dec 2022)*  
-Full-stack contact manager with signup/login and cloud backend.  
-**Tech:** HTML, CSS, JavaScript, NodeJS, ExpressJS, Firestore.
-
-### 🛍 [Shopify - Shopping App](https://shopifyshopping.netlify.app/) *(May 2025 – Jun 2025)*  
-Frontend shopping app with add-to-cart functionality.  
-**Tech:** ReactJS, NodeJS, Bootstrap CSS.
-
-### 🤖 [Telegram Chat Bots](https://youtu.be/WS0Jy6riiS0) *(Nov 2022 – Dec 2022)*  
-Three bots for greetings, document storage, and reminders.  
-**Tech:** NodeJS, Firestore, Telegram API.
-
----
-
-## 🎓 Certifications
-
-- Unit Testing in Spring Framework 6 with JUnit – Pluralsight *(Jul 2025)*
-- AI & Gen AI Foundations – Pluralsight *(Jun 2025)*
-- Microsoft Copilot with M365 Apps & GitHub – Pluralsight *(May 2025)*
-- Playwright Foundation with NodeJS – Pluralsight *(Apr 2025)*
-- Building Classification Models with scikit-learn – Pluralsight *(Feb 2025)*
-- Smart Coder DSA Training – Smart Interviews *(Jun – Oct 2024)*
-- Data Analytics Training Program – Accenture & Centum Foundation *(Aug 2023 – Feb 2024)*
-- Full Stack Web Development with NodeJS – Codinza *(Sep – Nov 2022)*
-
----
-
-## 🏅 Achievements
-
-- 10/10 CGPA in 10th Standard  
-- 96.7% in Intermediate (12th Grade)  
-- TS EAMCET Rank: 8187
-- Secured 9.42 CGPA and Stood at 4th Place in College in First Semester.
-- Got 100/100 Marks in Mathematics - 1 in First Semester of B. Tech
-
----
-
-
-## 📊 GitHub Stats
-
+👋 Hi, I'm Kashetty Deekshitha
+🎓 B.Tech in Computer Science and Engineering | 💻 Full Stack Developer | 🧠 Problem Solving Enthusiast
+I’m a passionate technologist focused on building robust and impactful applications, solving challenging problems, and continuously upskilling. I have transitioned from a Graduate Trainee to a Junior Software Engineer at Lloyds Technology Centre.
+💼 Professional Experience
+Junior Software Engineer – Lloyds Technology Centre
+September 2025 – Present | Hyderabad
+ * Developed JUnit test cases for the decoupling of View Cards functionality, achieving 94% code coverage.
+Graduate Technology Trainee – Lloyds Technology Centre
+November 2024 – September 2025 | Hyderabad
+ * Developed a demo project called SchoolProject using Spring Boot and JUnit, which included entities like students, teachers, subjects, and classrooms with different entity relationships.
+ * Used MySQL DB and created endpoints for CRUD operations for all entities and their relationships.
+ * Created JUnit test cases for the SchoolProject.
+ * Developed a Playwright feature file which tests "All transactions" button in the AOV page of Lloyds Banking Group Website for Business Users.
+ * Completed an 8-week training program covering Java, SQL, JavaScript, React.JS, SpringBoot, JDBC, JPA & Hibernate, Microservices, CassandraDB, and JUnit.
+🎓 Education
+| Institution | Degree/Certification | Year | Details |
+|---|---|---|---|
+| BVRIT Hyderabad College | Bachelor of Technology, CSE | 2020-2024 | CGPA: 7.91/10.0 |
+| Narayana Junior College | Board of Intermediate Education, Telangana | 2017-2019 | Percentage: 96.7/100.0 |
+| Sat Gyan High School | Board of Secondary Education, Telangana | 2016-2017 | CGPA: 10.0/10.0 |
+🚀 Technical Skills
+| Category | Skills |
+|---|---|
+| Languages | Python, C, C++, Java |
+| Web Development | HTML, CSS, JavaScript, NodeJS |
+| Frameworks | ReactJS, SpringBoot, ExpressJS |
+| Architecture | Microservices |
+| Databases | MySQL, Cassandra, PostgreSQL, Cloud SQL, Firestore |
+| Testing | JUnit, Playwright |
+| Data Tools | Numpy, Pandas, R, Tableau, Excel, Jupyter Notebook |
+| Other Tools | Git, LaTeX, Jira, Splunk, Docker |
+📌 Projects
+🛒 E-Shop - E-Commerce Website
+April 2025 – June 2025
+ * Full-stack e-commerce platform with login, register, products page, add to cart, and checkout options.
+ * Deployment: Backend deployed to Cloud Run using Docker, and DB deployed to Cloud SQL.
+ * Tech Stack: Java Spring Boot, Postgresql, Cloud Run, JavaScript, ReactJS, NodeJS, TailwindCSS, Cloud SQL.
+🌱 Paddy Leaf Disease Detection
+August 2023 – May 2024
+ * Predicts the disease of paddy leaf, suggests remedies, and calculates intensity of leaf area affected.
+ * Used ML models like SVM, K Nearest Neighbors Classification, and Random Forest.
+ * Accuracy: SVM yielded an accuracy of 87.5%.
+ * Tech Stack: Scikit Learn, Python, TensorFlow, Matplotlib, Jupyter Notebook.
+💳 Credit Risk Modelling
+August 2023 – December 2023
+ * Predicts loan defaulters using different models on the Credit Risk Data and calculate Credit Scores.
+ * Used Logistic Regression and KNeighbors Classification, both achieving an accuracy of 93%.
+ * Tech Stack: Scikit Learn, Python, Pandas, Numpy, Tkinter, Jupyter Notebook.
+📊 Created Dashboards for Data Analysis
+August 2023 – February 2024
+ * Created dashboards using Excel and Tableau for data analysis and visualization.
+ * Handled Databases with HeidiSQL and performed Data Analysis using Python (Numpy, Pandas).
+📇 Contact Web Application
+November 2022 – December 2022
+ * A Full Stack Web Application where the backend is created using Firestore.
+ * Contains sign up, login, add new contact, and view contacts added functionalities.
+ * Hosting: Hosted in Netlify.
+ * Tech Stack: HTML, CSS, JavaScript, NodeJS, Firestore, Express.JS.
+🛍 Shopify A Shopping App
+May 2025 – June 2025
+ * React App with frontend functionalities like Home Page, Add to Cart, and View Cart.
+ * Hosting: Hosted in Netlify.
+ * Tech Stack: JavaScript, NodeJS, ReactJS, BootStrap CSS.
+🤖 Telegram Chat Bots
+November 2022 – December 2022
+ * Created 3 chat bots using the Telegram API.
+ * Created a basic Hi-Bye Chat Bot, a Chat Bot to store personal documents, and a Chat Bot to store Reminders using the Telegram Chat Bot API.
+ * Tech Stack: Telegram Chat Bot API, NodeJS, Firestore.
+🏅 Certifications
+ * Git Fundamentals – Pluralsight (Aug 2025)
+ * Spring Framework: The Big Picture – Pluralsight (Aug 2025)
+ * Software Development Explained – Pluralsight (Aug 2025)
+ * Unit Testing in Spring FrameWork 6 with JUnit – Pluralsight (July 2025)
+ * AI & Gen AI Foundations – Pluralsight (June 2025)
+ * Microsoft Copilot with M365 Apps and GitHub – Pluralsight (May 2025)
+ * Playwright Foundation with NodeJS – Pluralsight (April 2025)
+ * Building Classification Models with scikit-learn – Pluralsight (February 2025)
+ * Smart Coder DSA Training – Smart Interviews (Jun 2024 – Oct 2024)
+ * Data Analytics Training Program – Centum Foundation and Accenture (Aug 2023 – Feb 2024)
+ * Full Stack Web Development With NodeJS – Codinza (Sep 2022 – Nov 2022)
+ * OOPs Concepts in C++ – Great Learning (Jan 2022 – Feb 2022)
+ * Peer Programming Hub – A Competitive Programming Camp (Dec 2021 – Jan 2022)
+ * WeekOfWeb – Codinza (August 2021)
+ * Learn to Code in Python 3 – Udemy (Sept 2021)
+ * AI for Everyone – Courseera (May 2021 – June 2021)
+ * Programming For Beginners Master the C Language – Udemy (Nov 2020 – Dec 2020)
+📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEEKSHITHA-K&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEKSHITHA-K&theme=radical" alt="GitHub Streak" height="160" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDEEKSHITHA-K%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" alt="GitHub Stats" height="160" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DDEEKSHITHA-K%26theme%3Dradical%26hide_border%3Dtrue" alt="GitHub Streak" height="160" />
 </p>
-  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEKSHITHA-K&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DDEEKSHITHA-K%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" />
 </p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEEKSHITHA-K&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🎯 Badges
-
-![Profile Views](https://komarev.com/ghpvc/?username=DEEKSHITHA-K&label=Profile%20Views&color=ff69b4&style=flat)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DEEKSHITHA-K.DEEKSHITHA-K)
-![GitHub followers](https://img.shields.io/github/followers/DEEKSHITHA-K?style=social)
-![GitHub stars](https://img.shields.io/github/stars/DEEKSHITHA-K?style=social)
-
----
-
-## 📫 Connect with Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-👩🏻‍💻-grey)](https://deekshitha-k.github.io/New-Portfolio/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/DEEKSHITHA-K)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deekshithakashetty/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:deekshithakashetty@gmail.com)
-
----
-
-
-⭐️ _"Code. Learn. Build. Repeat."_
+📫 Connect with Me
+⭐️ "Code. Learn. Build. Repeat."
