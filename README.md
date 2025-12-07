@@ -8,7 +8,7 @@ I’m a passionate technologist focused on building robust and impactful applica
 
 ## 💼 Professional Experience
 
-### Junior Software Engineer (FTE) – Lloyds Technology Centre
+### Junior Software Engineer – Lloyds Technology Centre
 *Sept 2025 – Present | Hyderabad*
 
 * Developed **JUnit** test cases for the **View Cards API**, achieving **94% code coverage**.
