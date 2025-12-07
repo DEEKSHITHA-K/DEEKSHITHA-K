@@ -2,24 +2,23 @@
 
 ### 🎓 **B.Tech in Computer Science and Engineering** | 💻 **Full Stack Developer** | 🧠 **Problem Solving Enthusiast**
 
-I’m a passionate technologist focused on building robust and impactful applications, solving challenging problems, and continuously upskilling. I have transitioned from a Graduate Trainee to a **Junior Software Engineer** at **Lloyds Technology Centre**.
+I’m a passionate technologist focused on building robust and impactful applications, solving challenging problems, and continuously upskilling. I have transitioned from a Graduate Trainee to a **Junior Software Engineer (FTE)** at **Lloyds Technology Centre**.
 
 ---
 
 ## 💼 Professional Experience
 
-### Junior Software Engineer – Lloyds Technology Centre
-*September 2025 – Present | Hyderabad*
+### Junior Software Engineer (FTE) – Lloyds Technology Centre
+*Sept 2025 – Present | Hyderabad*
 
-* Developed **JUnit** test cases for the decoupling of View Cards functionality, achieving **94% code coverage**.
+* Developed **JUnit** test cases for the **View Cards API**, achieving **94% code coverage**.
 
 ### Graduate Technology Trainee – Lloyds Technology Centre
-*November 2024 – September 2025 | Hyderabad*
+*Nov 2024 – Sept 2025 | Hyderabad*
 
-* Created JUnit test cases for the SchoolProject.
-* Developed a demo project called **SchoolProject** using Spring Boot and JUnit, which included entities like students, teachers, subjects, and classrooms with different entity relationships.
-* Used **MySQL DB** and created endpoints for **CRUD** operations for all entities and their relationships.
-* Developed a **Playwright** feature file which tests "All transactions" button in the AOV page of Lloyds Banking Group Website for Business Users.
+* Developed a demo project called **SchoolProject** using Spring Boot and JUnit, featuring entities (students, teachers, subjects, classrooms) with different entity relationships.
+* Used **MySQL DB** to create endpoints for **CRUD** operations for all entities and relationships, including corresponding JUnit test cases.
+* Developed a **Playwright** feature file which tests the "All transactions" button in the AOV page of Lloyds Banking Group Website for Business Users.
 * Completed an 8-week training program covering **Java, SQL, JavaScript, React.JS, SpringBoot, JDBC, JPA & Hibernate, Microservices, CassandraDB,** and **JUnit**.
 
 ---
@@ -28,7 +27,7 @@ I’m a passionate technologist focused on building robust and impactful applica
 
 | Institution | Degree/Certification | Year | Details |
 | :--- | :--- | :--- | :--- |
-| **BVRIT Hyderabad College** | Bachelor of Technology, CSE | 2020-2024 | CGPA: 7.91/10.0 |
+| **BVRIT Hyderabad College of Engineering for Women** | Bachelor of Technology, CSE | 2020-2024 | CGPA: 7.91/10.0 |
 | **Narayana Junior College** | Board of Intermediate Education, Telangana | 2017-2019 | Percentage: 96.7/100.0 |
 | **Sat Gyan High School** | Board of Secondary Education, Telangana | 2016-2017 | CGPA: 10.0/10.0 |
 
@@ -59,70 +58,73 @@ I’m a passionate technologist focused on building robust and impactful applica
 * **Tech Stack**: Backend Java Spring Boot, Postgresql, Cloud Run; Frontend JavaScript, ReactJS, NodeJS, TailwindCSS; Database: Cloud SQL.
 
 ### 🌱 **Paddy Leaf Disease Detection**
-*August 2023 – May 2024*
+*Aug 2023 – May 2024*
 
-* Predicts the disease of paddy leaf, suggests remedies, and calculates intensity of leaf area affected.
-* Used ML models like SVM, K Nearest Neighbors Classification, and Random Forest.
+* Predicts the disease of paddy leaf, suggests remedies and calculates intensity of leaf area affected.
 * **Accuracy**: SVM yielded an accuracy of **87.5%**.
 * **Tech Stack**: Scikit Learn, Python, TensorFlow, Matplotlib, Jupyter Notebook.
 
 ### 💳 **Credit Risk Modelling**
-*August 2023 – December 2023*
+*Aug 2023 – Dec 2023*
 
 * Predicts loan defaulters using different models on the Credit Risk Data and calculate Credit Scores.
-* Used Logistic Regression and KNeighbors Classification, both achieving an accuracy of **93%**.
+* Logistic Regression and KNeighbors Classification both gave an accuracy of **93%**.
 * **Tech Stack**: Scikit Learn, Python, Pandas, Numpy, Tkinter, Jupyter Notebook.
 
 ### 📊 **Created Dashboards for Data Analysis**
-*August 2023 – February 2024*
+*Aug 2023 – Feb 2024*
 
 * Created dashboards using **Excel** and **Tableau** for data analysis and visualization.
-* Handled Databases with **HeidiSQL** and performed Data Analysis using **Python** (Numpy, Pandas).
+* **Tech Stack**: Excel, Tableau, HeidiSQL, Python, Numpy, Pandas.
 
 ### 📇 [Contact Web Application](https://contactswebapplication.netlify.app/)
-*November 2022 – December 2022*
+*Nov 2022 - Dec 2022*
 
-* A Full Stack Web Application where the backend is created using **Firestore**.
-* Contains sign up, login, add new contact, and view contacts added functionalities.
-* **Hosting**: Hosted in **Netlify**.
+* A Full Stack Web Application where the backend is created using **Firestore**. Hosted in **Netlify**.
 * **Tech Stack**: HTML, CSS, JavaScript, NodeJS, Firestore, Express.JS.
 
 ### 🛍 [Shopify A Shopping App](https://shopifyshopping.netlify.app/)
 *May 2025 – June 2025*
 
-* React App with frontend functionalities like Home Page, Add to Cart, and View Cart.
-* Contains Minimal Functionalities like viewing Home Page, Add products to cart and View Cart.
-* **Hosting**: Hosted in **Netlify**.
+* React App with frontend functionalities like Home Page, Add to Cart, View Cart. Hosted in **Netlify**.
 * **Tech Stack**: JavaScript, NodeJS, ReactJS, BootStrap CSS.
 
 ### 🤖 [Telegram Chat Bots](https://youtu.be/WS0Jy6riiS0)
-*November 2022 – December 2022*
+*Nov 2022 – Dec 2022*
 
-* Created 3 chat bots using the **Telegram API**.
-* Created a basic Hi-Bye Chat Bot, a Chat Bot to store personal documents, and a Chat Bot to store Reminders using the Telegram Chat Bot API.
+* Created 3 chat bots using the **Telegram API** for greetings, document storage, and reminders.
 * **Tech Stack**: Telegram Chat Bot API, NodeJS, Firestore.
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications & Training
 
-* **Git Fundamentals** – Pluralsight (Aug 2025)
+### 💻 **Software Development & Core Programming**
+* **Unit Testing in Spring FrameWork 6 with JUnit** – Pluralsight (July 2025)
 * **Spring Framework: The Big Picture** – Pluralsight (Aug 2025)
 * **Software Development Explained** – Pluralsight (Aug 2025)
-* **Unit Testing in Spring FrameWork 6 with JUnit** – Pluralsight (July 2025)
+* **OOPs Concepts in C++** – Great Learning (Jan 2022 – Feb 2022)
+* **Programming For Beginners Master the C Language** – Udemy (Nov 2020 – Dec 2020)
+
+### 🌐 **Full Stack & Web Technologies**
+* **Full Stack Web Development With NodeJS** – Codinza (Sep 2022 – Nov 2022)
+* **Week of Web** – Codinza (August 2021)
+
+### 🧠 **Problem Solving & DSA**
+* **Smart Coder DSA Training** – Smart Interviews (Jun 2024 – Oct 2024)
+* **Learn to Code in Python 3** – Udemy (Sept 2021)
+
+### 🤖 **AI, ML & Data**
 * **AI & Gen AI Foundations** – Pluralsight (June 2025)
 * **Microsoft Copilot with M365 Apps and GitHub** – Pluralsight (May 2025)
-* **Playwright Foundation with NodeJS** – Pluralsight (April 2025)
 * **Building Classification Models with scikit-learn** – Pluralsight (February 2025)
-* **Smart Coder DSA Training** – Smart Interviews (Jun 2024 – Oct 2024)
 * **Data Analytics Training Program** – Centum Foundation and Accenture (Aug 2023 – Feb 2024)
-* **Full Stack Web Development With NodeJS** – Codinza (Sep 2022 – Nov 2022)
-* **OOPs Concepts in C++** – Great Learning (Jan 2022 – Feb 2022)
-* **Peer Programming Hub** – A Competitive Programming Camp (Dec 2021 – Jan 2022)
-* **WeekOfWeb** – Codinza (August 2021)
-* **Learn to Code in Python 3** – Udemy (Sept 2021)
 * **AI for Everyone** – Courseera (May 2021 – June 2021)
-* **Programming For Beginners Master the C Language** – Udemy (Nov 2020 – Dec 2020)
+
+### 🧪 **Testing, DevOps & Version Control**
+* **Playwright Foundation with NodeJS** – Pluralsight (April 2025)
+* **Git Fundamentals** – Pluralsight (Aug 2025)
+* **Agile & DevOps Executive Briefing** – Pluralsight (2025)
 
 ---
 
@@ -148,4 +150,4 @@ I’m a passionate technologist focused on building robust and impactful applica
 
 ---
 
-⭐️ _"Code. Learn. Build. Repeat."_
+⭐️ *"Code. Learn. Build. Repeat."*
