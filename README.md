@@ -16,9 +16,9 @@ I’m a passionate technologist focused on building robust and impactful applica
 ### Graduate Technology Trainee – Lloyds Technology Centre
 *November 2024 – September 2025 | Hyderabad*
 
+* Created JUnit test cases for the SchoolProject.
 * Developed a demo project called **SchoolProject** using Spring Boot and JUnit, which included entities like students, teachers, subjects, and classrooms with different entity relationships.
 * Used **MySQL DB** and created endpoints for **CRUD** operations for all entities and their relationships.
-* Created JUnit test cases for the SchoolProject.
 * Developed a **Playwright** feature file which tests "All transactions" button in the AOV page of Lloyds Banking Group Website for Business Users.
 * Completed an 8-week training program covering **Java, SQL, JavaScript, React.JS, SpringBoot, JDBC, JPA & Hibernate, Microservices, CassandraDB,** and **JUnit**.
 
