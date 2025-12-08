@@ -95,38 +95,6 @@ I’m a passionate technologist focused on building robust and impactful applica
 * Created 3 chat bots using the **Telegram API** for greetings, document storage, and reminders.
 * **Tech Stack**: Telegram Chat Bot API, NodeJS, Firestore.
 
----
-
-## 🏅 Certifications & Training
-
-### 💻 **Software Development & Core Programming**
-* **Unit Testing in Spring FrameWork 6 with JUnit** – Pluralsight (July 2025)
-* **Spring Framework: The Big Picture** – Pluralsight (Aug 2025)
-* **Software Development Explained** – Pluralsight (Aug 2025)
-* **OOPs Concepts in C++** – Great Learning (Jan 2022 – Feb 2022)
-* **Programming For Beginners Master the C Language** – Udemy (Nov 2020 – Dec 2020)
-
-### 🌐 **Full Stack & Web Technologies**
-* **Full Stack Web Development With NodeJS** – Codinza (Sep 2022 – Nov 2022)
-* **Week of Web** – Codinza (August 2021)
-
-### 🧠 **Problem Solving & DSA**
-* **Smart Coder DSA Training** – Smart Interviews (Jun 2024 – Oct 2024)
-* **Learn to Code in Python 3** – Udemy (Sept 2021)
-
-### 🤖 **AI, ML & Data**
-* **AI & Gen AI Foundations** – Pluralsight (June 2025)
-* **Microsoft Copilot with M365 Apps and GitHub** – Pluralsight (May 2025)
-* **Building Classification Models with scikit-learn** – Pluralsight (February 2025)
-* **Data Analytics Training Program** – Centum Foundation and Accenture (Aug 2023 – Feb 2024)
-* **AI for Everyone** – Courseera (May 2021 – June 2021)
-
-### 🧪 **Testing, DevOps & Version Control**
-* **Playwright Foundation with NodeJS** – Pluralsight (April 2025)
-* **Git Fundamentals** – Pluralsight (Aug 2025)
-* **Agile & DevOps Executive Briefing** – Pluralsight (2025)
-
----
 
 ## 📊 GitHub Stats
 
