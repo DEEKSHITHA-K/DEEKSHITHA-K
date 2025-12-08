@@ -95,7 +95,7 @@ I’m a passionate technologist focused on building robust and impactful applica
 * Created 3 chat bots using the **Telegram API** for greetings, document storage, and reminders.
 * **Tech Stack**: Telegram Chat Bot API, NodeJS, Firestore.
 
-
+---
 
 ## 📜 Certifications & Training
 
@@ -131,7 +131,7 @@ I’m a passionate technologist focused on building robust and impactful applica
   - Python 3 — Udemy (2021)
   - C Language — Udemy (2020)
 
-
+---
 
 
 ## 📊 GitHub Stats
