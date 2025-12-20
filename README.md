@@ -99,37 +99,17 @@ I’m a passionate technologist focused on building robust and impactful applica
 
 ## 📜 Certifications & Training
 
-- **Web Development**
-  - Full Stack Web Development with Node.js — Codinza (2022)
-  - Week of Web — Codinza (2021)
+### 🚀 Technical Training & Bootcamps (Hands-on)
+- **21 Projects 21 Days - ML, DL and Gen AI** - GeeksForGeeks (2025)
+- **Smart Coder (DSA)** – Smart Interviews (2024)
+- **Data Analytics Training** – Centum & Accenture (2024)
+- **Full Stack Web Development (Node.js)** – Codinza (2022)
 
-- **Agile & Version Control**
-  - Agile & DevOps Executive Briefing — Pluralsight (2025)
-  - Git Fundamentals — Pluralsight (2025)
-
-- **Backend & Testing**
-  - Spring Framework — Pluralsight (2025)
-  - Unit Testing with JUnit — Pluralsight (2025)
-  - Playwright Foundation with Node.js — Pluralsight (2025)
-
-- **Data & Analytics**
-  - Data Analytics Training — Centum & Accenture (2024)
-
-- **AI & Machine Learning**
-  - Classification Models with scikit-learn — Pluralsight (2025)
-  - AI for Everyone — Coursera (2021)
-
-- **Generative AI**
-  - Agentic AI & AI in Action
-  - Microsoft Copilot — Pluralsight (2025)
-
-- **Programming & DSA**
-  - Smart Coder DSA — Smart Interviews (2024)
-
-- **Programming Fundamentals**
-  - Object-Oriented Programming (C++) — Great Learning (2022)
-  - Python 3 — Udemy (2021)
-  - C Language — Udemy (2020)
+### 🎓 Professional Development & E-Learning
+- **AI & Machine Learning:** Agentic AI, Microsoft Copilot, Classification Models (scikit-learn), AI for Everyone | *Pluralsight, Coursera*
+- **Backend & Automation:** Spring Framework, Unit Testing (JUnit), Playwright Foundation | *Pluralsight*
+- **Agile & Version Control:** Agile & DevOps Executive Briefing, Git Fundamentals | *Pluralsight*
+- **Foundational Programming:** OOP (C++), Python 3, C Language | *Great Learning, Udemy*
 
 ---
 
