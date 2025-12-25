@@ -55,8 +55,8 @@ I’m a passionate technologist focused on building robust and impactful applica
 *April 2025 – June 2025*
 
 * Full-stack e-commerce platform with login, register, products page, add to cart, and checkout options.
-* **Deployment**: Backend deployed to **Cloud Run** using **Docker**, and DB deployed to **Cloud SQL**.
-* **Tech Stack**: Backend Java Spring Boot, Cloud Run; Frontend JavaScript, ReactJS, NodeJS, TailwindCSS; Database: Postresql, Cloud SQL.
+* **Deployment**: Backend deployed to **Render and Cloud Run** using **Docker**, and DB deployed to **Railway and Cloud SQL**.
+* **Tech Stack**: Backend Java Spring Boot, Cloud Run, Render; Frontend JavaScript, ReactJS, NodeJS, TailwindCSS; Database: Postresql, Railway, Cloud SQL.
 
 ### 🌱 **Paddy Leaf Disease Detection**
 *Aug 2023 – May 2024*
