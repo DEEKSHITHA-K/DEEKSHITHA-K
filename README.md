@@ -12,6 +12,7 @@ I’m a passionate technologist focused on building robust and impactful applica
 *Sept 2025 – Present | Hyderabad*
 
 * Developed **JUnit** test cases for the **View Cards API**, achieving **94% code coverage**.
+* Worked on **SonarQube** codesmells.
 
 ### Graduate Technology Trainee – Lloyds Technology Centre
 *Nov 2024 – Sept 2025 | Hyderabad*
@@ -50,7 +51,7 @@ I’m a passionate technologist focused on building robust and impactful applica
 
 ## 📌 Projects
 
-### 🛒 [E-Shop - E-Commerce Website](https://youtu.be/VIuN8zbWM-U)
+### 🛒 [E-Shop - E-Commerce Website](https://deekshitha-k.github.io/E-Shop-App-Details/)
 *April 2025 – June 2025*
 
 * Full-stack e-commerce platform with login, register, products page, add to cart, and checkout options.
