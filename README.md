@@ -11,8 +11,8 @@ I’m a passionate technologist focused on building robust and impactful applica
 ### Junior Software Engineer – Lloyds Technology Centre
 *Sept 2025 – Present | Hyderabad*
 
-* Developed **JUnit** test cases for the **View Cards API**, achieving **94% code coverage**.
 * Worked on **SonarQube** codesmells.
+* Developed **JUnit** test cases for the **View Cards API**, achieving **94% code coverage**.
 
 ### Graduate Technology Trainee – Lloyds Technology Centre
 *Nov 2024 – Sept 2025 | Hyderabad*
