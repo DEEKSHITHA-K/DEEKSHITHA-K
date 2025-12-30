@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kashetty Deekshitha
+# 👋 Hi, I'm [Kashetty Deekshitha](https://deekshitha-k.github.io/New-Portfolio/)
 
 ### 🎓 **B.Tech in Computer Science and Engineering** | 💻 **Full Stack Developer** | 🧠 **Problem Solving Enthusiast**
 
