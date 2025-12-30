@@ -58,44 +58,23 @@ I’m a passionate technologist focused on building robust and impactful applica
 * **Deployment**: Backend deployed to **Render and Cloud Run** using **Docker**, and DB deployed to **Railway and Cloud SQL**.
 * **Tech Stack**: Backend Java Spring Boot, Cloud Run, Render; Frontend JavaScript, ReactJS, NodeJS, TailwindCSS; Database: Postresql, Railway, Cloud SQL.
 
-### 🌱 **Paddy Leaf Disease Detection**
+### 🌱 [**Paddy Leaf Disease Detection**](https://github.com/DEEKSHITHA-K/Paddy-Leaf-Disease-Detection)
 *Aug 2023 – May 2024*
 
 * Predicts the disease of paddy leaf, suggests remedies and calculates intensity of leaf area affected.
 * **Accuracy**: SVM yielded an accuracy of **87.5%**.
 * **Tech Stack**: Scikit Learn, Python, TensorFlow, Matplotlib, Jupyter Notebook.
 
-### 💳 **Credit Risk Modelling**
-*Aug 2023 – Dec 2023*
 
-* Predicts loan defaulters using different models on the Credit Risk Data and calculate Credit Scores.
-* Logistic Regression and KNeighbors Classification both gave an accuracy of **93%**.
-* **Tech Stack**: Scikit Learn, Python, Pandas, Numpy, Tkinter, Jupyter Notebook.
+---
 
-### 📊 **Created Dashboards for Data Analysis**
-*Aug 2023 – Feb 2024*
+## Other Notable Projects (Brief)
 
-* Created dashboards using **Excel** and **Tableau** for data analysis and visualization.
-* **Tech Stack**: Excel, Tableau, HeidiSQL, Python, Numpy, Pandas.
-
-### 📇 [Contact Web Application](https://contactswebapplication.netlify.app/)
-*Nov 2022 - Dec 2022*
-
-* A Full Stack Web Application where the backend is created using **Firestore**. Hosted in **Netlify**.
-* **Tech Stack**: HTML, CSS, JavaScript, NodeJS, Firestore, Express.JS.
-
-### 🛍 [Shopify A Shopping App](https://shopifyshopping.netlify.app/)
-*May 2025 – June 2025*
-
-* React App with frontend functionalities like Home Page, Add to Cart, View Cart. Hosted in **Netlify**.
-* **Tech Stack**: JavaScript, NodeJS, ReactJS, BootStrap CSS.
-
-### 🤖 [Telegram Chat Bots](https://youtu.be/WS0Jy6riiS0)
-*Nov 2022 – Dec 2022*
-
-* Created 3 chat bots using the **Telegram API** for greetings, document storage, and reminders.
-* **Tech Stack**: Telegram Chat Bot API, NodeJS, Firestore.
-
+- [**Credit Risk Modelling**](https://github.com/DEEKSHITHA-K/Credit-Risk-Modeling) - ML-based loan defaulter prediction with **93% accuracy**  
+- [**Contact Web Application**](https://contactswebapplication.netlify.app/) -Full-stack contacts web application using **NodeJS** and **Firestore**  
+- [**Shopify – Shopping App**](https://shopifyshopping.netlify.app/) - React-based frontend shopping application with cart functionality  
+- [**Telegram Chat Bots**](https://youtu.be/WS0Jy6riiS0) - Developed multiple Telegram bots using **Telegram Bot API**  
+  
 ---
 
 ## 📜 Certifications & Training
