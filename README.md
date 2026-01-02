@@ -8,7 +8,7 @@ I’m a passionate technologist focused on building robust and impactful applica
 
 ## 💼 Professional Experience
 
-### Junior Software Engineer – Lloyds Technology Centre
+### Associate Software Engineer – Lloyds Technology Centre
 *Sept 2025 – Present | Hyderabad*
 
 * Worked on **SonarQube** codesmells.
