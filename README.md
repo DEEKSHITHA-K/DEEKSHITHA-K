@@ -45,7 +45,7 @@ I am a backend developer working at **Lloyds Technology Centre**. I’m passiona
 | 🗄️ **Databases** | MySQL, PostgreSQL, Cassandra, Firestore |
 | 🛠️ **DevOps & Tools** | Docker, Git, Jira, Splunk, LaTeX |
 | 🤖 **Machine Learning** | Scikit-Learn, TensorFlow, NumPy, Pandas, Jupyter Notebook |
-| 📊 **Data Analysis & Viz** | Tableau, Excel, R |
+| 📊 **Data Analysis & Vizualization** | Tableau, Excel, R |
 
 ---
 
