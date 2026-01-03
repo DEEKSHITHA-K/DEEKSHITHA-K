@@ -2,7 +2,7 @@
 
 ### 🎓 **B.Tech in Computer Science and Engineering** | 💻 **Full Stack Developer** | 🧠 **Problem Solving Enthusiast**
 
-I am a backend developer working at **Lloyds Technology Centre**. I’m passionate in building clean and scalable applications, solving challenging problems, and continuously upskilling myself to be a better engineer. I have transitioned from a Graduate Technology Trainee to a **Associate Software Engineer** at **Lloyds Technology Centre**.
+I am a backend developer working at **Lloyds Technology Centre**. I’m passionate in building real world applications, solving challenging problems, and continuously upskilling myself to be a better engineer. I have transitioned from a Graduate Technology Trainee to a **Associate Software Engineer** at **Lloyds Technology Centre**.
 
 ---
 
