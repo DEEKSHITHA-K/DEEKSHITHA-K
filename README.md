@@ -44,7 +44,7 @@ I am a backend developer working at **Lloyds Technology Centre**. I’m passiona
 | 🧪 **Testing & QA** | JUnit, Mockito, Playwright |
 | 🗄️ **Databases** | MySQL, PostgreSQL, Cassandra, Firestore |
 | 🛠️ **DevOps & Tools** | Docker, Git, Jira, Splunk, LaTeX |
-| 🤖 **Data Science & ML** | Scikit-Learn, TensorFlow, NumPy, Pandas, Jupyter Notebook |
+| 🤖 **Machine Learning** | Scikit-Learn, TensorFlow, NumPy, Pandas, Jupyter Notebook |
 | 📊 **Data Analysis & Viz** | Tableau, Excel, R |
 
 ---
