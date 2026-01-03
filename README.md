@@ -2,7 +2,7 @@
 
 ### 🎓 **B.Tech in Computer Science and Engineering** | 💻 **Full Stack Developer** | 🧠 **Problem Solving Enthusiast**
 
-I’m a passionate backend developer. I can build clean and scalable applications, solving challenging problems, and continuously upskilling myself to be a engineer. I have transitioned from a Graduate Technology Trainee to a **Associate Software Engineer** at **Lloyds Technology Centre**.
+I’m a passionate backend developer. I can build clean and scalable applications, solving challenging problems, and continuously upskilling myself to be a better engineer. I have transitioned from a Graduate Technology Trainee to a **Associate Software Engineer** at **Lloyds Technology Centre**.
 
 ---
 
