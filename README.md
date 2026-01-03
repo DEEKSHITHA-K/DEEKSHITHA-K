@@ -38,14 +38,14 @@ I’m a passionate technologist focused on building robust and impactful applica
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Python, C, C++, Java |
-| **Web Development** | HTML, CSS, JavaScript, NodeJS |
-| **Frameworks & Libraries** | ReactJS, SpringBoot, ExpressJS |
-| **Architecture** | Microservices |
-| **Testing** | JUnit, Playwright |
-| **Databases** | MySQL, Cassandra |
-| **Tools and Technologies** | Numpy, Pandas, Jupyter Notebook, Git, LaTeX, Jira, Splunk |
-| **Data Analysis and Visualization tools** | Tableau, Excel, R |
+| 💻 **Languages** | Java, Python, JavaScript, SQL, C, C++ |
+| ⚙️ **Backend & Frameworks** | Spring Boot, Microservices, Hibernate, JPA, Node.js, ExpressJS |
+| 🎨 **Frontend Development** | ReactJS, HTML5, CSS3, TailwindCSS, Bootstrap |
+| 🧪 **Testing & QA** | JUnit, Mockito, Playwright |
+| 🗄️ **Databases** | MySQL, PostgreSQL, Cassandra, Firestore |
+| 🛠️ **DevOps & Tools** | Docker, Git, Jira, Splunk, LaTeX |
+| 🤖 **Data Science & ML** | Scikit-Learn, TensorFlow, NumPy, Pandas, Jupyter Notebook |
+| 📊 **Data Analysis & Viz** | Tableau, Excel, R |
 
 ---
 
