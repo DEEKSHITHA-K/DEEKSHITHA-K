@@ -11,7 +11,8 @@ I am a backend developer working at **Lloyds Technology Centre**. I’m passiona
 ### Associate Software Engineer – Lloyds Technology Centre
 *Sept 2025 – Present | Hyderabad*
 
-* Worked on **SonarQube** codesmells.
+* Documented REST APIs using Swagger and README.
+* Worked on **SonarQube** codesmells, duplications and vulnerabilities.
 * Developed **JUnit** test cases for the **View Cards API**, achieving **94% code coverage**.
 
 ### Graduate Technology Trainee – Lloyds Technology Centre
