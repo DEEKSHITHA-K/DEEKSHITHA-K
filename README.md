@@ -44,7 +44,7 @@ I am a backend developer working at **Lloyds Technology Centre**. I’m passiona
 | 🎨 **Frontend Development** | ReactJS, HTML5, CSS3, TailwindCSS, Bootstrap |
 | 🧪 **Testing & QA** | JUnit, Mockito, Playwright |
 | 🗄️ **Databases** | MySQL, PostgreSQL, Cassandra, Firestore |
-| 🛠️ **DevOps & Tools** | Docker, Git, Jira, Splunk, LaTeX |
+| 🛠️ **DevOps & Tools** | Harness CI/CD, Docker, Git, Jira, Splunk, LaTeX |
 | 🤖 **Machine Learning** | Scikit-Learn, TensorFlow, NumPy, Pandas, Jupyter Notebook |
 | 📊 **Data Analysis & Visualization** | Tableau, Excel, R |
 
