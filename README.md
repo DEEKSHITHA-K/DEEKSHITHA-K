@@ -13,7 +13,8 @@ I am a backend developer working at **Lloyds Technology Centre**. I’m passiona
 
 * Worked on **Copilot AI Agent** based Spring Boot to Quarkus migration
 * Explored **Quarkus** Framework and **migrated Get Cards API** from Spring Boot to Quarkus
-* Written **playwright automation test scripts** for expired auth token for view cards details feature
+* Written **Playwright automation test scripts** for expired auth token for view cards details feature
+* Tested Get Cards APIs using **Bruno** for resposne validation
 * Documented REST APIs using **Swagger** and **README**.
 * Remediation of **SonarQube** codesmells, duplications and vulnerabilities.
 * Developed **JUnit** test cases for the **View Cards, PAN and CVV API**, achieving **94% code coverage**.
@@ -24,7 +25,7 @@ I am a backend developer working at **Lloyds Technology Centre**. I’m passiona
 * Developed a demo project called **SchoolProject** using Spring Boot and JUnit, featuring entities (students, teachers, subjects, classrooms) with different entity relationships.
 * Used **MySQL DB** to create endpoints for **CRUD** operations for all entities and relationships, including corresponding JUnit test cases.
 * Developed a **Playwright** feature file which tests the "All transactions" button in the AOV page of Lloyds Banking Group Website for Business Users.
-* Completed an 8-week training program covering **Java, SQL, JavaScript, React.JS, SpringBoot, JDBC, JPA & Hibernate, Microservices, CassandraDB,** and **JUnit**.
+* Completed an 8-week training program covering **Java, SQL, JavaScript, React.JS, SpringBoot, JDBC, JPA & Hibernate, Microservices, CassandraDB** and **JUnit**.
 
 ---
 
