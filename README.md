@@ -2,7 +2,7 @@
 
 ### 🎓 **B.Tech in Computer Science and Engineering** | 💻 **Full Stack Developer** | 🧠 **Problem Solving Enthusiast**
 
-I am a backend developer working at **Lloyds Technology Centre**. I’m passionate in building real world applications, solving challenging problems, and continuously upskilling myself to be a better engineer. I have transitioned from a Graduate Technology Trainee to a **Associate Software Engineer** at **Lloyds Technology Centre**.
+I am a backend developer working at **Lloyds Technology Centre**. I’m passionate in building real world applications, solving challenging problems, and continuously upskilling myself to be a bett[...]
 
 ---
 
@@ -41,16 +41,15 @@ I am a backend developer working at **Lloyds Technology Centre**. I’m passiona
 
 ## 🚀 Technical Skills
 
-| Category | Skills |
-| :--- | :--- |
-| 💻 **Languages** | Java, Python, JavaScript, SQL, C, C++ |
-| ⚙️ **Backend & Frameworks** | Spring Boot, Quarkus, Microservices, Hibernate, JPA, Node.js, ExpressJS |
-| 🎨 **Frontend Development** | ReactJS, HTML5, CSS3, TailwindCSS, Bootstrap |
-| 🧪 **Testing & QA** | JUnit, Mockito, Playwright, Bruno for API Testiing |
-| 🗄️ **Databases** | MySQL, PostgreSQL, Cassandra, Firestore |
-| 🛠️ **DevOps & Tools** | Harness CI/CD, Docker, Git, Jira, Splunk, LaTeX |
-| 🤖 **Machine Learning** | Scikit-Learn, TensorFlow, NumPy, Pandas, Jupyter Notebook |
-| 📊 **Data Analysis & Visualization** | Tableau, Excel, R |
+- 💻 Languages: Java, Python, JavaScript, SQL, C, C++
+- ⚙️ Backend & Frameworks: Spring Boot, Quarkus, Microservices, Hibernate, JPA, Node.js, Express.js
+- 🎨 Frontend Development: React.js, HTML5, CSS3, Tailwind CSS, Bootstrap
+- 🧪 Testing & QA: JUnit, Mockito, Playwright, Bruno (API Testing)
+- 🗄️ Databases: MySQL, PostgreSQL, Cassandra, Firestore
+- 🛠️ DevOps & Tools: Harness CI/CD, Git, Jira, Splunk, LaTeX
+- 🤖 Machine Learning & AI: Scikit-learn, TensorFlow, Computer Vision and Image Analysis, Data Science and Predictive Modelling, NumPy, Pandas, Jupyter Notebook
+- 🧠 Gen AI & Agentic AI: Copilot Agents, LLMs, Generative AI, AI Engineering, Automation
+- 📊 Data Analysis & Visualization: Tableau, Microsoft Excel, R
 
 ---
 
