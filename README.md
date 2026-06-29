@@ -8,12 +8,15 @@ I am a backend developer working at **Lloyds Technology Centre**. I’m passiona
 
 ## 💼 Professional Experience
 
-### Associate Software Engineer – Lloyds Technology Centre
+### Associate Engineer – Lloyds Technology Centre
 *Sept 2025 – Present | Hyderabad*
 
-* Documented REST APIs using Swagger and README.
-* Worked on **SonarQube** codesmells, duplications and vulnerabilities.
-* Developed **JUnit** test cases for the **View Cards API**, achieving **94% code coverage**.
+* Worked on **Copilot AI Agent** based Spring Boot to Quarkus migration
+* Explored **Quarkus** Framework and **migrated Get Cards API** from Spring Boot to Quarkus
+* Written **playwright automation test scripts** for expired auth token for view cards details feature
+* Documented REST APIs using **Swagger** and **README**.
+* Remediation of **SonarQube** codesmells, duplications and vulnerabilities.
+* Developed **JUnit** test cases for the **View Cards, PAN and CVV API**, achieving **94% code coverage**.
 
 ### Graduate Technology Trainee – Lloyds Technology Centre
 *Nov 2024 – Sept 2025 | Hyderabad*
@@ -40,9 +43,9 @@ I am a backend developer working at **Lloyds Technology Centre**. I’m passiona
 | Category | Skills |
 | :--- | :--- |
 | 💻 **Languages** | Java, Python, JavaScript, SQL, C, C++ |
-| ⚙️ **Backend & Frameworks** | Spring Boot, Microservices, Hibernate, JPA, Node.js, ExpressJS |
+| ⚙️ **Backend & Frameworks** | Spring Boot, Quarkus, Microservices, Hibernate, JPA, Node.js, ExpressJS |
 | 🎨 **Frontend Development** | ReactJS, HTML5, CSS3, TailwindCSS, Bootstrap |
-| 🧪 **Testing & QA** | JUnit, Mockito, Playwright |
+| 🧪 **Testing & QA** | JUnit, Mockito, Playwright, Bruno for API Testiing |
 | 🗄️ **Databases** | MySQL, PostgreSQL, Cassandra, Firestore |
 | 🛠️ **DevOps & Tools** | Harness CI/CD, Docker, Git, Jira, Splunk, LaTeX |
 | 🤖 **Machine Learning** | Scikit-Learn, TensorFlow, NumPy, Pandas, Jupyter Notebook |
