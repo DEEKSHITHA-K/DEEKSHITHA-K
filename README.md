@@ -41,15 +41,17 @@ I am a backend developer working at **Lloyds Technology Centre**. I’m passiona
 
 ## 🚀 Technical Skills
 
-- 💻 Languages: Java, Python, JavaScript, SQL, C, C++
-- ⚙️ Backend & Frameworks: Spring Boot, Quarkus, Microservices, Hibernate, JPA, Node.js, Express.js
-- 🎨 Frontend Development: React.js, HTML5, CSS3, Tailwind CSS, Bootstrap
-- 🧪 Testing & QA: JUnit, Mockito, Playwright, Bruno (API Testing)
-- 🗄️ Databases: MySQL, PostgreSQL, Cassandra, Firestore
-- 🛠️ DevOps & Tools: Harness CI/CD, Git, Jira, Splunk, LaTeX
-- 🤖 Machine Learning & AI: Scikit-learn, TensorFlow, Computer Vision and Image Analysis, Data Science and Predictive Modelling, NumPy, Pandas, Jupyter Notebook
-- 🧠 Gen AI & Agentic AI: Copilot Agents, LLMs, Generative AI, AI Engineering, Automation
-- 📊 Data Analysis & Visualization: Tableau, Microsoft Excel, R
+| Category | Skills |
+| :--- | :--- |
+| 💻 **Languages** | Java, Python, JavaScript, SQL, C, C++ |
+| ⚙️ **Backend & Frameworks** | Spring Boot, Quarkus, Microservices, Hibernate, JPA, Node.js, Express.js |
+| 🎨 **Frontend Development** | React.js, HTML5, CSS3, Tailwind CSS, Bootstrap |
+| 🧪 **Testing & QA** | JUnit, Mockito, Playwright, Bruno (API Testing) |
+| 🗄️ **Databases** | MySQL, PostgreSQL, Cassandra, Firestore |
+| 🛠️ **DevOps & Tools** | Harness CI/CD, Git, Jira, Splunk, LaTeX |
+| 🤖 **Machine Learning & AI** | Scikit-learn, TensorFlow, Computer Vision & Image Analysis, Data Science & Predictive Modelling, NumPy, Pandas, Jupyter Notebook |
+| 🧠 **Gen AI & Agentic AI** | Copilot Agents, LLMs, Generative AI, AI Engineering, Automation |
+| 📊 **Data Analysis & Visualization** | Tableau, Microsoft Excel, R |
 
 ---
 
