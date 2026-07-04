@@ -76,7 +76,9 @@ I am a backend developer working at **Lloyds Technology Centre**. I’m passiona
 
 ## Other Notable Projects (Brief)
 
-- [**Credit Risk Modelling**](https://github.com/DEEKSHITHA-K/Credit-Risk-Modeling) - ML-based loan defaulter prediction with **93% accuracy**  
+- [**Credit Risk Modelling**](https://github.com/DEEKSHITHA-K/Credit-Risk-Modeling) - ML-based loan defaulter prediction with **93% accuracy**
+- [**Open AI with Java**](https://github.com/DEEKSHITHA-K/OpenAI-with-java) - Project to demonstrate how to integrate OpenAI's GPT models with Java microservices using Spring Boot and Spring AI
+- [**Machine Learning Projects**](https://github.com/DEEKSHITHA-K/Machine-Learning-Projects) - Machine Learning Projects developed using Gemini
 - [**Contact Web Application**](https://contactswebapplication.netlify.app/) -Full-stack contacts web application using **NodeJS** and **Firestore**  
 - [**Shopify – Shopping App**](https://shopifyshopping.netlify.app/) - React-based frontend shopping application with cart functionality  
 - [**Telegram Chat Bots**](https://youtu.be/WS0Jy6riiS0) - Developed multiple Telegram bots using **Telegram Bot API**  
